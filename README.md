@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Paul</h1>
+<h1 align="center">Hi 👋, I'm Alexis</h1>
 <h3 align="center">A Self-Taught Developer, Currently Learning Artificial Intelligence in Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pauld103&label=Profile%20views&color=0e75b6&style=flat" alt="PaulD103" /> </p>
