@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Alexis</h1>
-<h3 align="center">A Self-Taught Developer, Currently Learning Artificial Intelligence in Python</h3>
+<h3 align="center">A Self-Taught Developer, Currently working as a Backend developer with C#</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pauld103&label=Profile%20views&color=0e75b6&style=flat" alt="PaulD103" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexiscod&label=Profile%20views&color=0e75b6&style=flat" alt="Alexiscod" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pauld103" alt="PaulD103" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexiscod" alt="Alexiscod" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/js__coding" target="blank"><img src="https://img.shields.io/twitter/follow/js__coding?logo=twitter&style=for-the-badge" alt="js__coding" /></a> </p>
+<!--<p align="left"> <a href="https://twitter.com/js__coding" target="blank"><img src="https://img.shields.io/twitter/follow/js__coding?logo=twitter&style=for-the-badge" alt="js__coding" /></a> </p>-->
 
 - 🔭 I’m currently working on [Side Projects in Javascript](https://github.com/PaulD103/javascriptcodingProjects), I share on my own coded [React WebApp](https://javascriptcoding.org)
 
