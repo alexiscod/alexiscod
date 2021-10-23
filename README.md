@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with **React**
 
-- 👨‍💻 All of my projects are available at [alvimc.com](https://javascriptcoding.org)
+<!-- 👨‍💻 All of my projects are available at [alvimc.com](https://alvimc.com)-->
 
 - 💬 Ask me about **React.js, Python and JavaScript**
 
