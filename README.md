@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **React.js, Python and JavaScript**
 
-- 📫 How to reach me **support@alvimc.com**
+- 📫 How to reach me **alexis.batistasanchez@gmail.com**
 
 - ⚡ Fun fact **I love films about lawyers and business**
 
