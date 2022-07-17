@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 
 <!--<p align="left"> <a href="https://twitter.com/js__coding" target="blank"><img src="https://img.shields.io/twitter/follow/js__coding?logo=twitter&style=for-the-badge" alt="js__coding" /></a> </p>-->
 
-- 🔭 I’m currently working on [Side Projects in Javascript](https://github.com/PaulD103/javascriptcodingProjects), I share on my own coded [React WebApp](https://javascriptcoding.org)
+- 🔭 I’m currently working on Side Projects in Python.
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **JavaScript projects**
+- 👯 I’m looking to collaborate on **Python projects**
 
-- 🤝 I’m looking for help with **React**
+- 🤝 I’m looking for help with **Django**
 
 <!-- 👨‍💻 All of my projects are available at [alvimc.com](https://alvimc.com)-->
 
-- 💬 Ask me about **React.js, Python and JavaScript**
+- 💬 Ask me about **C#, Python and JavaScript**
 
 - 📫 How to reach me **alexis.batistasanchez@gmail.com**
 
