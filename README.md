@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Alexis</h1>
-<h3 align="center">A Self-Taught Developer, Currently working as a Backend developer with C#</h3>
+<h3 align="center">A Self-Taught Developer, Currently working as a Full-Stack developer with C#, JavaScript, SQL, HTML, Django, Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexiscod&label=Profile%20views&color=0e75b6&style=flat" alt="Alexiscod" /> </p>
 
